@@ -46,3 +46,46 @@ h1 {
     background-repeat: no-repeat;
     margin-bottom: 100px;
 }
+
+.third {
+    background-image: url(images/exp-bg.png);
+    background-position: top-left;
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+
+.flex {
+    display: flex;
+    padding-left: 2%;
+    margin bottom: 100px;
+}
+
+#ex {
+    padding-left: 2%;
+}
+
+.ex-items {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px cornflowerblue;
+}
+
+#web {
+    border-left: 8px solid rosybrown;
+}
+
+#photo {
+    border-left: 8px solid goldenrod;
+}
+
+.link-button3 {
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 2%;
+}
